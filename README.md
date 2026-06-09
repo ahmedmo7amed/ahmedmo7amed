@@ -48,8 +48,9 @@ Domain-Driven Design
 Cloud Infrastructure
 DevOps Practices
 Connect With Me
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-Email: your-email@example.com
+LinkedIn: https://www.linkedin.com/in/ahmed-mo77amm3d/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3B3pY3W8OcRS%2BcBhjfw%2BiqEg%3D%3D
+
+Email: ahmdmo7amed@gmail.com
 <!--
 **ahmedmo7amed/ahmedmo7amed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

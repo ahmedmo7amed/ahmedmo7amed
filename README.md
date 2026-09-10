@@ -1,188 +1,21 @@
-Hi, I'm Ahmed Mohammed 👋
+# 💫 About Me:
+Hi, I'm Ahmed Mohamed 👋<br><br>Software Engineer | Laravel & PHP | React & TypeScript | SaaS<br><br>I build production-ready web applications and SaaS platforms using Laravel, PHP, React, TypeScript, and REST APIs.<br><br>My work focuses on turning business requirements into practical software — from backend architecture and databases to frontend interfaces, APIs, authentication, permissions, and integrations.<br><br>---<br><br>🚀 What I'm Working On<br><br>Building and improving production-ready applications, including:<br><br>- SaaS platforms<br>- Multi-tenant applications<br>- Restaurant QR menu systems<br>- Business management applications<br>- REST APIs and backend services<br>- Payment integrations<br>- Database-driven web applications<br><br>---<br><br>🛠️ Core Technologies<br><br>Backend<br><br>- PHP<br>- Laravel<br>- REST APIs<br>- MySQL<br>- PostgreSQL<br><br>Frontend<br><br>- React<br>- TypeScript<br>- JavaScript<br>- React Router<br>- HTML5<br>- CSS3<br><br>Architecture & Development<br><br>- SaaS Architecture<br>- Multi-tenancy<br>- Authentication & Authorization<br>- Role-Based Permissions<br>- API Design<br>- Payment Integrations<br>- Database Design<br><br>Tools<br><br>- Git<br>- GitHub<br>- Docker<br>- Postman<br><br>---<br><br>📌 Featured Work<br><br>🍽️ QeMenu — Smart QR Menu SaaS<br><br>A restaurant-focused SaaS platform for digital QR menus and business operations.<br><br>The platform involves:<br><br>- Multi-tenant SaaS architecture<br>- Restaurant and branch management<br>- Digital menus<br>- QR-based table access<br>- Customer ordering<br>- Role-based permissions<br>- Payment integrations<br>- REST APIs<br>- Tenant-aware business logic<br><br>Tech: Laravel • PHP • React • TypeScript • MySQL • REST APIs • SaaS<br><br>---<br><br>⚖️ Madinah Legal Investment Conference Platform<br><br>A web platform for managing the Madinah Legal Investment Conference 2026, including participant, sponsor, and speaker workflows.<br><br>The system includes:<br><br>- Registration workflows<br>- Participant profiles<br>- Sponsor profiles<br>- Speaker profiles<br>- OTP email verification<br>- Role and permission management<br>- Arabic and English support<br><br>Tech: Laravel • PHP • React • TypeScript • Inertia.js • Tailwind CSS • Sanctum • Spatie<br><br>---<br><br>🏢 Real Estate Platform<br><br>A Saudi-focused real estate web platform with structured location management and property-related services.<br><br>The platform includes location hierarchies such as:<br><br>City → Area → District<br><br>with support for property categories and real-estate search workflows.<br><br>Tech: Laravel • React • TypeScript • Tailwind CSS • REST APIs<br><br>---<br><br>🤝 I'm Looking to Collaborate On<br><br>I'm interested in collaborating on practical projects involving:<br><br>- Laravel & PHP<br>- React & TypeScript<br>- SaaS products<br>- Multi-tenant systems<br>- REST APIs<br>- Business applications<br>- Open-source projects<br><br>---<br><br>📚 Currently Learning<br><br>I'm continuously improving my knowledge in:<br><br>- Advanced SaaS architecture<br>- Multi-tenancy<br>- System design<br>- Payment integrations<br>- Application security<br>- Testing strategies<br>- Scalable Laravel & React applications<br>- Software architecture and maintainability<br><br>---<br><br>💬 Ask Me About<br><br>Laravel • PHP • React • TypeScript • JavaScript • REST APIs • MySQL • PostgreSQL • SaaS • Multi-tenancy • QR Menu Systems • Payment Integrations<br><br>---<br><br>🎯 My Approach<br><br>I enjoy taking a business requirement and turning it into a working software system.<br><br>That includes thinking about:<br><br>Requirements → Architecture → Database → Backend → APIs → Frontend → Permissions → Integrations → Testing → Deployment<br><br>I focus on building systems that are practical, maintainable, and ready to evolve as the product grows.<br><br>---
 
-Software Engineer | Laravel & PHP | React 
 
-I build production-ready web applications and SaaS platforms using Laravel, PHP, React, TypeScript, and REST APIs.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ahmed-mo77amm3d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedmo77amed@gmail.com) 
 
-My work focuses on turning business requirements into practical software — from backend architecture and databases to frontend interfaces, APIs, authentication, permissions, and integrations.
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ahmedmo7amed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ahmedmo7amed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedmo7amed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-🚀 What I'm Working On
-
-Building and improving production-ready applications, including:
-
-- SaaS platforms
-- Multi-tenant applications
-- Restaurant QR menu systems
-- Business management applications
-- REST APIs and backend services
-- Payment integrations
-- Database-driven web applications
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ahmedmo7amed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Ahmedmo7amed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🛠️ Core Technologies
-
-Backend
-
-- PHP
-- Laravel
-- REST APIs
-- MySQL
-- PostgreSQL
-
-Frontend
-
-- React
-- TypeScript
-- JavaScript
-- React Router
-- HTML5
-- CSS3
-
-Architecture & Development
-
-- SaaS Architecture
-- Multi-tenancy
-- Authentication & Authorization
-- Role-Based Permissions
-- API Design
-- Payment Integrations
-- Database Design
-
-Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
-
----
-
-📌 Featured Work
-
-🍽️ QeMenu — Smart QR Menu SaaS
-
-A restaurant-focused SaaS platform for digital QR menus and business operations.
-
-The platform involves:
-
-- Multi-tenant SaaS architecture
-- Restaurant and branch management
-- Digital menus
-- QR-based table access
-- Customer ordering
-- Role-based permissions
-- Payment integrations
-- REST APIs
-- Tenant-aware business logic
-
-Tech: Laravel • PHP • React • TypeScript • MySQL • REST APIs • SaaS
-
----
-
-⚖️ Madinah Legal Investment Conference Platform
-
-A web platform for managing the Madinah Legal Investment Conference 2026, including participant, sponsor, and speaker workflows.
-
-The system includes:
-
-- Registration workflows
-- Participant profiles
-- Sponsor profiles
-- Speaker profiles
-- OTP email verification
-- Role and permission management
-- Arabic and English support
-
-Tech: Laravel • PHP • React • TypeScript • Inertia.js • Tailwind CSS • Sanctum • Spatie
-
----
-
-🏢 Real Estate Platform
-
-A Saudi-focused real estate web platform with structured location management and property-related services.
-
-The platform includes location hierarchies such as:
-
-City → Area → District
-
-with support for property categories and real-estate search workflows.
-
-Tech: Laravel • React • TypeScript • Tailwind CSS • REST APIs
-
----
-
-🤝 I'm Looking to Collaborate On
-
-I'm interested in collaborating on practical projects involving:
-
-- Laravel & PHP
-- React & TypeScript
-- SaaS products
-- Multi-tenant systems
-- REST APIs
-- Business applications
-- Open-source projects
-
----
-
-📚 Currently Learning
-
-I'm continuously improving my knowledge in:
-
-- Advanced SaaS architecture
-- Multi-tenancy
-- System design
-- Payment integrations
-- Application security
-- Testing strategies
-- Scalable Laravel & React applications
-- Software architecture and maintainability
-
----
-
-💬 Ask Me About
-
-Laravel • PHP • React • TypeScript • JavaScript • REST APIs • MySQL • PostgreSQL • SaaS • Multi-tenancy • QR Menu Systems • Payment Integrations
-
----
-
-🎯 My Approach
-
-I enjoy taking a business requirement and turning it into a working software system.
-
-That includes thinking about:
-
-Requirements → Architecture → Database → Backend → APIs → Frontend → Permissions → Integrations → Testing → Deployment
-
-I focus on building systems that are practical, maintainable, and ready to evolve as the product grows.
-
----
-
-🌐 Connect With Me
-
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Ahmedmo7amed)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://linkedin.com/in/ahmed-mo77amm3d)
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ahmedmo77amed@gmail.com)
-
----
-
-📊 GitHub Stats
-
-https://github-readme-stats.shion.dev/api?username=Ahmedmo7amed&theme=dark&hide_border=false&include_all_commits=false&count_private=false
-
-https://streak-stats.demolab.com/?user=Ahmedmo7amed&theme=dark&hide_border=false
-
-https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedmo7amed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-
----
-
-🔝 Top Contributed Repo
-
-https://github-contributor-stats.vercel.app/api?username=Ahmedmo7amed&limit=5&theme=dark&combine_all_yearly_contributions=true
-
----
-
-"Profile Views" (https://komarev.com/ghpvc/?username=Ahmedmo7amed&color=0e75b6)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
